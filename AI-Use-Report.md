@@ -12,7 +12,7 @@
 Did you use an AI tool for this lab?
 
 - [ ] Yes
-- [ ] No
+- [ | ] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
 
